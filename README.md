@@ -43,7 +43,7 @@
 <ul>
     <li>
         1 . Start the development server:<br>
-        npm run dev
+          npm run dev
     </li>
     <li>
         2 . Open your browser and navigate to http://localhost:3000
