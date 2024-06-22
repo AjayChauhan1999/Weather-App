@@ -60,7 +60,7 @@
   1 . Sign up on OpenWeatherMap and get an API key.
   2 . Create a .env file in the root of your project and add your API key:
 
-    REACT_APP_WEATHER_API_KEY=your_api_key_here
+  <p>REACT_APP_WEATHER_API_KEY=your_api_key_here</p>
 
 ## Technologies Used
 <ul>
@@ -72,7 +72,7 @@
 
 ## Contributing
 
-    Contributions are welcome! Please follow these steps:
+  <p>Contributions are welcome! Please follow these steps:</p>
 
 <ul>
   <li>Fork the repository</li>
@@ -83,7 +83,7 @@
 </ul>
 
 ## License
-    This project is licensed under the MIT License. See the LICENSE file for more details.
+  <p>This project is licensed under the MIT License. See the LICENSE file for more details.</p>
     
 ## Acknowledgements
 
