@@ -43,7 +43,7 @@
 <ul>
     <li>
         1 . Start the development server:<br>
-        npm start
+        npm run dev
     </li>
     <li>
         2 . Open your browser and navigate to http://localhost:3000
@@ -57,10 +57,10 @@
 <p>To fetch weather data, you will need an API key from a weather service provider (e.g., OpenWeatherMap).
 </p>
 
-    1 . Sign up on OpenWeatherMap and get an API key.
-    2 . Create a .env file in the root of your project and add your API key:
+  1 . Sign up on OpenWeatherMap and get an API key.
+  2 . Create a .env file in the root of your project and add your API key:
 
-        REACT_APP_WEATHER_API_KEY=your_api_key_here
+    REACT_APP_WEATHER_API_KEY=your_api_key_here
 
 ## Technologies Used
 <ul>
