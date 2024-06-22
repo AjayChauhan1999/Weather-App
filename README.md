@@ -1,5 +1,6 @@
 # Weather App
 <p>A simple weather application built using React.js and styled with Tailwind CSS. This app allows users to search for current weather information by city.</p>
+
 ## Table of Contents
 <ul>
   <li>Features</li>
